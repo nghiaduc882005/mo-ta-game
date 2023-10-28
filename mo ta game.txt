@@ -1,0 +1,16 @@
+- game dua tren game dao vang
+1. giao dien
+(day moc)
+hoa qua
+xe
+2.chuc nag
+-mui ten dua qua dua lai 
+-an space de bat dau keo theo goc dang quay
+-neu keo trung thi hoa qua dinh vao mui ten va mui ten quay tro lai
+-neu keo truot thi mui ten di het man hinh xong quay tro lai
+-tinh diem
+-thoi gian
+-qua man
+-thua
+-nang cao(cua hang, nang cap, chuong ngai vat, ...)
+3. slide
